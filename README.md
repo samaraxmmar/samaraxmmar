@@ -1,7 +1,7 @@
 # Hi 👋, I'm Samar Ammar
 
-A passionate Machine Learning Engineer from Tunisia 🇹🇳. I specialize in building and deploying intelligent models to solve real-world problems.
-
+I'm a tech enthusiast with a growing interest in Artificial Intelligence and software development.
+My focus is on exploring AI tools,
 ---
 
 ### 🤝 Connect with me:
